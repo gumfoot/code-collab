@@ -1,0 +1,4 @@
+This is a sample text file for the repository gumfoot/code-collab.
+
+It demonstrates basic text content.
+You can edit, add, or remove lines as needed.
